@@ -1,0 +1,22 @@
+{
+  "name": "@ludyjim/mycli",
+  "version": "1.0.2",
+  "description": "写个cli",
+  "main": "index.js",
+  "bin": {
+    "mycli": "bin/mycli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mycli"
+  ],
+  "author": "lujin90@jd.com",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^5.0.0"
+  },
+  "devDependencies": {}
+}
